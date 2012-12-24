@@ -1,0 +1,14 @@
+{
+  "name": "dkit-reader",
+  "version": "0.0.1",
+  "private": true,
+  "scripts": {
+    "start": "node app",
+    "test": "node_modules/.bin/nodeunit tests/*"
+  },
+  "dependencies": {
+    "sequelize": "~1.6.0-beta-1",
+  },
+  "devDependencies": {
+  }
+}
